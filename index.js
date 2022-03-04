@@ -50,7 +50,7 @@ customElements.define('hf-labs', class extends HTMLElement {
         background: white;
         border-radius: 2px;
         outline: 1px solid black;
-        width: calc(100% - 10px);
+        width: 100%;
     }
 
     .hints div {
